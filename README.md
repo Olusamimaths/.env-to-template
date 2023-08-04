@@ -1,7 +1,7 @@
 # .env to Template Converter
+This bash script simplifies the process of converting a **.env** file to a template file. 
 
-Description:
-This bash script simplifies the process of converting a **.env** file to a template file. The script reads through the input **.env** file, replacing all values with empty strings while preserving the keys. This conversion allows developers to create reusable configuration templates that can be shared with others or used as a starting point for new projects.
+The script reads through the input **.env** file, replacing all values with empty strings while preserving the keys. This conversion allows developers to create reusable configuration templates that can be shared with others or used as a starting point for new projects.
 
 ## How to Use:
 - Save the script in a file, e.g., **convert_env_to_template.sh**.
